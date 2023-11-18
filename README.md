@@ -11,4 +11,4 @@ This is PCB replica of the motherboard of Atari 130XE 8-bit computer. It was cre
 
 **Motherboard:**
 
-![Atari 130 XE motherboard](https://raw.githubusercontent.com/pmandes/atari-130xe-replica/main/images/130xe-replica-1.0.jpg)
+<p align="center"><img src="https://raw.githubusercontent.com/pmandes/atari-130xe-replica/main/images/130xe-replica-1.0.jpg" height="594"></a></p>
