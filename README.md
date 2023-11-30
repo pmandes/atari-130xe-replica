@@ -22,7 +22,8 @@ This is PCB replica of the motherboard of Atari 130XE 8-bit computer. It was cre
 
 ## ROMs: ##
 
-TBA
+- **Atari ROM Checker**, useful tools and a list of all Atari ROMs with checksums: https://www.wudsn.com/productions/atari800/atariromchecker/help/AtariROMChecker.html
+- **ROM archive**: http://ftp.pigwa.net/stuff/collections/nir_dary_cds/ROMS/
 
 ## Alternative components: ##
 
