@@ -35,5 +35,7 @@ This is PCB replica of the motherboard of Atari 130XE 8-bit computer. It was cre
 
 ## Useful resources: ##
 
+- **How to upgrade your Atari with Ultimate 1MB, Stereo and Sophia DVI**: https://en.devzine.pl/2019/09/23/how-to-upgrade-your-atari-with-ultimate-1mb-stereo-and-sophia-dvi/
 - **Ultra Video XE**: https://arsoft.netstrefa.pl/ultravideoxe.htmTBA
-
+- **Atari projects by tOri (i.e. SRAM module)**: http://atari.myftp.org/atari8bit/atari8bit.html
+- **1MB SIMMExp by Pasiu/Mq** https://www.atari.org.pl/forum/viewtopic.php?id=15710
