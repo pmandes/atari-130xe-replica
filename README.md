@@ -39,3 +39,4 @@ This is PCB replica of the motherboard of Atari 130XE 8-bit computer. It was cre
 - **Ultra Video XE**: https://arsoft.netstrefa.pl/ultravideoxe.htm
 - **Atari projects by tOri (i.e. SRAM module)**: http://atari.myftp.org/atari8bit/atari8bit.html
 - **1MB SIMMExp by Pasiu/Mq** https://www.atari.org.pl/forum/viewtopic.php?id=15710
+- **Sys-Check V2.2 XL/XE by Juergen van Radecke (tfhh)** https://www.van-radecke.de/STUFF/tfhh_HW_info.pdf
