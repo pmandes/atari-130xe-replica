@@ -17,10 +17,10 @@ This is PCB replica of the motherboard of Atari 130XE 8-bit computer. It was cre
 
 ## Changleog: ##
 
-**1.1**
+**1.1 (March 2025)**
 - corrected minor mistakes in the prototype
 
-**1.0**
+**1.0 (August 2023)**
 - prototype
 
 ## ROMs: ##
