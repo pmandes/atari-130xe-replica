@@ -17,6 +17,9 @@ This is PCB replica of the motherboard of Atari 130XE 8-bit computer. It was cre
 
 ## Changleog: ##
 
+**1.1**
+- corrected minor mistakes in the prototype
+
 **1.0**
 - prototype
 
@@ -27,7 +30,7 @@ This is PCB replica of the motherboard of Atari 130XE 8-bit computer. It was cre
 
 ## Alternative components: ##
 
-TBA
+- **Atari XE C25953 EMMU Replacement**: https://github.com/mikulski-lab/C25953-emmu
 
 ## Useful resources: ##
 
