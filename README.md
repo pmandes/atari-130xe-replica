@@ -32,6 +32,7 @@ This is PCB replica of the motherboard of Atari 130XE 8-bit computer. It was cre
 
 - **Atari XE C25953 EMMU Replacement**: https://github.com/mikulski-lab/C25953-emmu
 - **Video circuit replacement for the Atari XL/XE**: https://systemembedded.eu/viewtopic.php?t=62
+- **Pokeymax 4 by foft**: https://forums.atariage.com/topic/364870-pokeymax-v4-bring-up-thread/
 
 ## Useful resources: ##
 
