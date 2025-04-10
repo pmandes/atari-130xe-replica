@@ -11,6 +11,17 @@ This is PCB replica of the motherboard of Atari 130XE 8-bit computer. It was cre
 
 <p align="center"><a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/pmandes/atari-130xe-replica/main/bom/ibom.html"><img src="https://raw.githubusercontent.com/pmandes/atari-130xe-replica/main/images/bom.png" height="400"></a></p>
 
+### Major integrated circuits: ###
+
+| No | Chip | Part number | Description |
+|--------:|----------------------------|:--------------------:|:------------------|
+|  U6     | FREDDIE                    | C061991 (NCR), C061922 (CITE) | Address multiplexer and strobing signal generation for DRAM |
+|  U7     | ANTIC                      | C021697 - NTSC, C021698 - PAL | Alpha-Numeric Television Interface Controller |
+|  U8     | 6502C SALLY                | C014806 | Main CPU |
+|  U17    | GTIA                       | C014805 - NTSC, C014889 - PAL | Graphic Television Interface Adaptor |
+|  U22    | POKEY                      | C012294 | Sound generation, serial interface control (SIO), paddle and keyboard support |
+|  U23    | PIA                        | C012298, C014795, C014812 | Peripheral Interface Adapter. It supports joystick ports and controls the memory controller |
+
 ## Motherboard: ##
 
 <p align="center"><img src="https://raw.githubusercontent.com/pmandes/atari-130xe-replica/main/images/130xe-replica-1.0.jpg" width="480"></a>
