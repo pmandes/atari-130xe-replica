@@ -57,8 +57,8 @@ I created this project mainly out of nostalgia for the 8-bit Atari I had in my c
 - **1MB SIMMExp by Pasiu/Mq** https://www.atari.org.pl/forum/viewtopic.php?id=15710
 - **Sys-Check V2.2 XL/XE by Juergen van Radecke (tfhh)** https://www.van-radecke.de/STUFF/tfhh_HW_info.pdf
 
-  ## Other replicas: ##
-  - **ZX Spectrum 48k ISSUE 6A**: https://github.com/pmandes/zx-spectrum-issue6a-replica
-  - **Atari 800XL** by ezcontents: https://github.com/marekl123/atari800xl
-  - **Commodore C64 Assy 250407** by bwack: https://github.com/bwack/C64-250407-Replica-KiCad
-  - **Commodore C64C Assy 250469** by bwack: https://github.com/bwack/C64C-250469-KiCAD-Replica
+## Other replicas: ##
+- **ZX Spectrum 48k ISSUE 6A**: https://github.com/pmandes/zx-spectrum-issue6a-replica
+- **Atari 800XL** by ezcontents: https://github.com/marekl123/atari800xl
+- **Commodore C64 Assy 250407** by bwack: https://github.com/bwack/C64-250407-Replica-KiCad
+- **Commodore C64C Assy 250469** by bwack: https://github.com/bwack/C64C-250469-KiCAD-Replica
