@@ -1,6 +1,6 @@
 # Atari 130XE (64x4) Assy No. CA200519 motherboard replica
 
-These is a replica of the motherboard of a Atari 130XE 8-bit computer. They were created on the basis of the last version of the board - "CI03579 REV.1 / Assy No. CA200519" - which was mounted in last batches of Atari 65XE, Atari 800XE and Atari 130XE.
+This is a replica of the motherboard of a Atari 130XE 8-bit computer. It was created on the basis of the last version of the board - "CI03579 REV.1 / Assy No. CA200519" - which was mounted in last batches of Atari 65XE, Atari 800XE and Atari 130XE.
 
 It differs from previous versions primarily by using 2/4 memory chips instead of 8 in the Atari 65XE or 16 in the Atari 130XE. It also features a full ECI/CART connector, which was missing in earlier versions of the 65 series. This replica is reproduced almost exactly 1:1 from the original, with only the descriptive layer modified for greater clarity. There may also be other minor improvements, such as the removal of certain errors present in the original.
 
