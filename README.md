@@ -25,6 +25,16 @@ I created this project mainly out of nostalgia for the 8-bit Atari I had in my c
 |  U22    | POKEY                      | C012294 | Sound generation, serial interface control (SIO), paddle and keyboard support |
 |  U23    | PIA                        | C012298, C014795, C014812 | Peripheral Interface Adapter. It supports joystick ports and controls the memory controller |
 
+### Other ICs ###
+| No | Chip | Original part | Description |
+|--------:|----------------------------|:--------------------:|:------------------|
+|U9,U10,U11,U12|4464|Sharp LH2464-12|DRAM memory (4464 compatible)|
+|U24,U25|4051|Toshiba TC4051BP|Single 8-channel multiplexer/demultiplexer|
+|U1|LM358|Texas Instruments LM368N| Low-voltage audio power amplifier |
+
+
+
+
 ## Motherboard: ##
 
 <p align="center"><img src="https://raw.githubusercontent.com/pmandes/atari-130xe-replica/main/images/130xe-replica-1.0.jpg" width="480"></a>
