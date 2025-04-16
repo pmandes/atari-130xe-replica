@@ -25,14 +25,26 @@ I created this project mainly out of nostalgia for the 8-bit Atari I had in my c
 |  U22    | POKEY                      | C012294 | Sound generation, serial interface control (SIO), paddle and keyboard support |
 |  U23    | PIA                        | C012298, C014795, C014812 | Peripheral Interface Adapter. It supports joystick ports and controls the memory controller |
 
-### Other ICs ###
+### Other ICs: ###
 | No | Chip | Original part | Description |
 |--------:|----------------------------|:--------------------:|:------------------|
 |U9,U10,U11,U12|4464|Sharp LH2464-12|DRAM memory (4464 compatible)|
 |U24,U25|4051|Toshiba TC4051BP|Single 8-channel multiplexer/demultiplexer|
-|U1|LM358|Texas Instruments LM368N| Low-voltage audio power amplifier |
+|U1|LM358|Texas Instruments LM368N| Low-voltage audio power amplifier|
+|U2|74LS138| |3-line to 8-line decoder / demultiplexer|
+|U3|MMU|Atari C061618|Memory Management Unit|
+|U34|EMMU|Atari C025953| Extended Memory MU for 128kB *|
+|U20|4050|CD4050| CMOS Hex Buffer |
 
 
+* It occurs in Atari 130XE computers. It can be replaced by a [GAL chip](https://github.com/mikulski-lab/C25953-emmu). In the 65XE version, there are 0 Ohm resistors in that location according to the schematic:
+
+### Crystals: ###
+
+| No | Chip | PAL | NTSC |
+|--------:|--------------|:--------:|:--------|
+|Y1|HC18/HC49 case|14.187576 MHz	|14.31818 MHz|
+|Y2|HC18/HC49 case|4.433618 MHz  | - |
 
 
 ## Motherboard: ##
@@ -43,7 +55,7 @@ I created this project mainly out of nostalgia for the 8-bit Atari I had in my c
 ## Changleog: ##
 
 **1.1 (March 2025)**
-- corrected minor mistakes in the prototype
+- corrected minor mistakes in the prototype, iBOM updated
 
 **1.0 (August 2023)**
 - prototype
