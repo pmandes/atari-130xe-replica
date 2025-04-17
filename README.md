@@ -82,6 +82,7 @@ I created this project mainly out of nostalgia for the 8-bit Atari I had in my c
 ## Other replicas: ##
 - **ZX Spectrum 48k ISSUE 6A**: https://github.com/pmandes/zx-spectrum-issue6a-replica
 - **Atari 800XL** by ezcontents: https://ezcontents.org/atari-800xl-pcb-remake
+- **Atari 600XL** by kveldulfur: https://www.kveldulfur.de/600xl-pcb/
 - **Commodore C64 Assy 250407** by bwack: https://github.com/bwack/C64-250407-Replica-KiCad
 - **Commodore C64C Assy 250469** by bwack: https://github.com/bwack/C64C-250469-KiCAD-Replica
 - **ReAmiga 1200/3000** by Chucky: https://www.reamiga.info/
