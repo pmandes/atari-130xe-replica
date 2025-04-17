@@ -89,6 +89,10 @@ I created this project mainly out of nostalgia for the 8-bit Atari I had in my c
 - **Commodore C64 Assy 250407** by bwack: https://github.com/bwack/C64-250407-Replica-KiCad
 - **Commodore C64C Assy 250469** by bwack: https://github.com/bwack/C64C-250469-KiCAD-Replica
 - **ReAmiga 1200/3000** by Chucky: https://www.reamiga.info/
-- 
+ 
+---
+All material published here is under a [Creative Commons 4.0 license](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+
 
 **Atari and the Atari logo are registered trademarks of Atari Interactive, Inc.**
