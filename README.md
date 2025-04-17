@@ -37,7 +37,8 @@ I created this project mainly out of nostalgia for the 8-bit Atari I had in my c
 |U20|4050|CD4050| CMOS Hex Buffer |
 
 
-* It occurs in Atari 130XE computers. It can be replaced by a [GAL chip](https://github.com/mikulski-lab/C25953-emmu). In the 65XE version, there are 0 Ohm resistors in that location according to the schematic:
+* It occurs in Atari 130XE computers. It can be replaced by a [GAL chip](https://github.com/mikulski-lab/C25953-emmu). In the 65XE version, there are 0 Ohm resistors.
+  You can simply connect the corresponding pins with short wires, as shown in the picture: 
 
 <p align="center"><img src="https://raw.githubusercontent.com/pmandes/atari-130xe-replica/main/images/64k-mode.png" width="300"></p>
 
