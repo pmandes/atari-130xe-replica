@@ -93,6 +93,6 @@ I created this project mainly out of nostalgia for the 8-bit Atari I had in my c
 ---
 All material published here is under a [Creative Commons 4.0 license](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-
+<img src="https://raw.githubusercontent.com/pmandes/atari-130xe-replica/main/images/Cc_by-nc-nd_icon.png" width="150">
 
 **Atari and the Atari logo are registered trademarks of Atari Interactive, Inc.**
