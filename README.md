@@ -44,7 +44,7 @@ I created this project mainly out of nostalgia for the 8-bit Atari I had in my c
 |U1|LM358|Texas Instruments LM368N| Low-voltage audio power amplifier|
 |U2|74LS138| |3-line to 8-line decoder / demultiplexer|
 |U3|MMU|Atari C061618|Memory Management Unit|
-|U34|EMMU|Atari C025953| Extended Memory MU for 128kB *|
+|U34|EMMU|Atari C025953| Extended Memory MU for 128kb RAM *|
 |U20|4050|CD4050| CMOS Hex Buffer |
 
 
