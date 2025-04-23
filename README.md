@@ -25,6 +25,17 @@ I created this project mainly out of nostalgia for the 8-bit Atari I had in my c
 |  U22    | POKEY                      | C012294 | Sound generation, serial interface control (SIO), paddle and keyboard support |
 |  U23    | PIA                        | C012298, C014795, C014812 | Peripheral Interface Adapter. It supports joystick ports and controls the memory controller |
 
+### ROMS ###
+
+| No | Chip | Part number | Description |
+|--------:|----------------------------|:--------------------:|:------------------|
+|U4|NCR 2364-30|C024947A (Rev.C)| ATARI BASIC (8kb) *|
+|U5|NCR 23128-30|C061598B (Rev.2), C300717 (Rev.3)| ATARI OS ROM (16kb) ** |
+
+  *use 2364 (24-pin) to 27xxx adapter for 2764-27512 EPROMs
+  
+  **use OS switcher (28-pin) for 27128-27512 EPROMs
+
 ### Other ICs: ###
 | No | Chip | Original part | Description |
 |--------:|----------------------------|:--------------------:|:------------------|
