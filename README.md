@@ -84,6 +84,7 @@ I created this project mainly out of nostalgia for the 8-bit Atari I had in my c
 - **Atari XE C25953 EMMU Replacement**: https://github.com/mikulski-lab/C25953-emmu
 - **Video circuit replacement for the Atari XL/XE**: https://systemembedded.eu/viewtopic.php?t=62
 - **Pokeymax 4 by foft**: https://forums.atariage.com/topic/364870-pokeymax-v4-bring-up-thread/
+- **4xOS Switcher by Mr Robot**: https://atari8bit.net/projects/hardware/4xos-switcher/
 
 ## Useful resources: ##
 
