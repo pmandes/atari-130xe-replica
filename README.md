@@ -54,13 +54,13 @@ I created this project mainly out of nostalgia for the 8-bit Atari I had in my c
 ### Other ICs: ###
 | No | Chip | Original part | Description |
 |--------:|----------------------------|:--------------------:|:------------------|
-|U1|LM358|Texas Instruments LM368N| Low-voltage audio power amplifier|
-|U2|74LS138| |3-line to 8-line decoder / demultiplexer|
-|U18|74LS08| | Quad2-Input AND Gate|
-|U19|NE555| | General-purpose single bipolar timer|
-|U20|4050|CD4050| CMOS Hex Buffer |
-|U21|74LS74| | Dual D-Type Positive Edge-Triggered Flip-Flop|
-|U24,U25|4051|Toshiba TC4051BP|Single 8-channel multiplexer/demultiplexer|
+|U1|LM358| TI LM368N| Low-voltage audio power amplifier|
+|U2|74LS138| Motorola SN74LS138N |3-line to 8-line decoder / demultiplexer|
+|U18|74LS08| SGS T74LS08B1 | Quad2-Input AND Gate|
+|U19|NE555| NE555C | General-purpose single bipolar timer|
+|U20|4050| MC14050BCP | CMOS Hex Buffer |
+|U21|74LS74| SN74LS74AN | Dual D-Type Positive Edge-Triggered Flip-Flop|
+|U24,U25|4051| Toshiba TC4051BP |Single 8-channel multiplexer/demultiplexer|
 
 ### Crystals: ###
 
