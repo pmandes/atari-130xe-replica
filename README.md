@@ -40,11 +40,14 @@ I created this project mainly out of nostalgia for the 8-bit Atari I had in my c
 | No | Chip | Original part | Description |
 |--------:|----------------------------|:--------------------:|:------------------|
 |U9,U10,U11,U12|4464|Sharp LH2464-12|DRAM memory (4464 compatible)|
-|U3|MMU|Atari C061618|Memory Management Unit|
-|U34|EMMU|Atari C025953| Extended Memory MU for 128kb RAM *|
+|U3|MMU|Atari C061618|Memory Management Unit*|
+|U34|EMMU|Atari C025953| Extended Memory MU for 128kb RAM **|
 
- *It occurs in Atari 130XE computers. It can be replaced by a [GAL chip](https://github.com/mikulski-lab/C25953-emmu). In the 65XE version, there are 0 Ohm resistors.
-  You can simply connect the corresponding pins with short wires, as shown in the picture: 
+*Can be replaced directly by the GAL 16V8 chip programmed with this [JEDEC file](https://reversing.pl/atari8bit/galmmu/galmmu.html).
+
+ **It occurs in Atari 130XE computers. It can be replaced by a [GAL chip](https://github.com/mikulski-lab/C25953-emmu). The GAL 16V8 chip must be in a special adapter, or the GAL 22v10 chip with some of the legs hardwired.
+ 
+ In the 65XE version, there are 0 Ohm resistors. You can simply connect the corresponding pins with short wires, as shown in the picture: 
 
 <p align="center"><img src="https://raw.githubusercontent.com/pmandes/atari-130xe-replica/main/images/64k-mode.png" width="300"></p>
 
